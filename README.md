@@ -3,7 +3,7 @@
 Developed by Jihoon Chung
 
 - Project: JEC Digital Twin Dashboard
-- Project leader: Jihoon Chung (Ph.D Candidate)
+- Group leader: Jihoon Chung (Ph.D Candidate)
 - Member: Jiayu Wu (B.Arch)
 - Course: Research Investigation in Fall 2024
 - Instructor: Josh Draper
